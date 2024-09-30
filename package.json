@@ -1,0 +1,18 @@
+{
+  "name": "onechat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amir29adib/onechat.git",
+  "author": "Amir <amir29adib1234@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@types/socket.io": "^3.0.2",
+    "socket.io": "^4.8.0"
+  }
+}
